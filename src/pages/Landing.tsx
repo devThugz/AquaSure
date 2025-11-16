@@ -311,7 +311,7 @@ export function Landing() {
                   {/* Ocean map visualization */}
                   <div className="relative h-64 bg-ocean-navy/80 rounded-lg mb-4 overflow-hidden">
                     <div className="absolute inset-0 opacity-70">
-                      <img src="https://images.unsplash.com/photo-1527489377706-5bf97e608852?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" alt="Ocean Satellite Map" className="w-full h-full object-cover" />
+                      <img src="/Landing_cap.jpg" alt="Ocean Satellite Map" className="w-full h-full object-cover" />
                     </div>
                     <div className="absolute inset-0 bg-gradient-to-b from-transparent to-ocean-navy/90"></div>
                     {/* Map markers */}
